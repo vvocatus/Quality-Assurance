@@ -10,5 +10,11 @@
     <img src="https://img.shields.io/badge/HH-red?style=for-the-badge&logo=hh.ru&logoColor=white"/>
   </a>
 </div>
-Обо мне
----
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+ Обо мне
